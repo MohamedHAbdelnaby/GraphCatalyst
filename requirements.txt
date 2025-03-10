@@ -10,5 +10,3 @@ tqdm>=4.64.0
 python-dotenv>=0.20.0
 Pillow>=9.0.0
 python-arango  
-cudf  
-cugraph  
